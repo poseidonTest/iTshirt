@@ -2,4 +2,5 @@
 
 1. 티셔츠 올리기
 2. 티셔츠 구매하기
-3. detail page view append
+3. 장바구니 담기
+4. detail page view append
